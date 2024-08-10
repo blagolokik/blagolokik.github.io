@@ -1,0 +1,30 @@
+/* styles.css */
+
+/* ... previous styles ... */
+
+#services {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+}
+
+.service-item {
+    margin: 20px 0;
+    padding: 15px;
+    background-color: rgba(211, 185, 215, 0.5);
+    border-left: 5px solid purple;
+    border-radius: 5px;
+}
+
+.service-item h2 {
+    margin: 0;
+    font-size: 1.5em;
+}
+
+.service-item p {
+    margin: 5px 0 0;
+    font-size: 1.2em;
+}
